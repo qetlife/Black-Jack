@@ -32,5 +32,5 @@ h3 {
 
 
 .color-picture {
-    background: url(/imgs/background.png)center/cover fixed;
+    background: url(../imgs/background.png)center/cover fixed;
 }
