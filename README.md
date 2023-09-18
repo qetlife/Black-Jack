@@ -1,4 +1,4 @@
 # Black-Jack
 School Project
 
-Play at https://qetlife.github.io/Black-Jack-JS/
+Play at https://qetlife.github.io/Black-Jack/
